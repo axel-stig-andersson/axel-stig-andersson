@@ -1,7 +1,7 @@
 ### Hi there 👋, and welcome to my GitHub!
 #### I am Axel Andersson, a Swedish prospecting machine learning engineer.
 
-Feel free to checkout any of my projects, and contact me whenever you want. As long as it´s computer science, I'd love to talk!
+Feel free to checkout any of my projects, and contact me whenever you want. As long as it´s about software, or any project in general, I'd love to talk!
 
 
 - 📫 How to reach me: axelandersson20@outlook.com 
