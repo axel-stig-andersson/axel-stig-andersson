@@ -5,7 +5,7 @@ I'm always looking to improve in all parts of software engineering. Feel free to
 
 
 - 📫 How to reach me: axelandersson20@outlook.com 
-<div style='margin-left': 20px>
+<div>
   <a href="https://www.linkedin.com/in/jakob-berggren/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
