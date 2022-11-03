@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, and welcome to my GitHub! </h1>
-#### I am Axel Andersson, a Swedish prospecting machine learning engineer.
+<p align='center'>I am Axel Andersson, a Swedish prospecting machine learning engineer.
 
-I'm always looking to improve in all parts of software engineering. Feel free to checkout any of my projects, and contact me whenever you want. As long as it´s about software, or any project in general, I'd love to talk!
+I'm always looking to improve in all parts of software engineering. Feel free to checkout any of my projects, and contact me whenever you want. As long as it´s about software, or any project in general, I'd love to talk! </p>
 
 
 - 📫 How to reach me: axelandersson20@outlook.com 
